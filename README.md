@@ -23,8 +23,13 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
 
 ---
 
-## 💼 Layanan/Keahlian Inti
-**Web Development** (Frontend, Backend, Full-stack) • **Data Analysis** (Visualisasi, Insight, Dashboard) • **Artificial Intelligence** (Machine Learning, Model Prototyping, Automation) • **Database & API** (Desain Database, RESTful API, Integrasi Sistem) • **Problem Solving** (Algoritma, Struktur Data, Optimasi Kode)
+## 💼 Keahlian & Fokus Belajar
+
+- **Web Development** — Frontend, Backend, Full-stack
+- **Data Analysis** — Visualisasi, Insight, Dashboard
+- **Artificial Intelligence** — Machine Learning, Model Prototyping, Automation
+- **Database & API** — Desain Database, RESTful API, Integrasi Sistem
+- **Problem Solving** — Algoritma, Struktur Data, Optimasi Kode
 
 ---
 
