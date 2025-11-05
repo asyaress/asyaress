@@ -188,7 +188,7 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaress&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=asyaress&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asyaress&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
