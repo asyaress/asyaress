@@ -9,7 +9,7 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 # ATHASYAHRI SYAWAL FAHREZY
 **Gue Bisa • Full-Stack • Data/ML Enthusiast**
 
-[![Email](https://img.shields.io/badge/Email-email%40domain.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:athafarez2412@gmail.com)
+[![Email](https://img.shields.io/badge/Email-athafarez2412%40gmail.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:athafarez2412@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://rekrutmen-toedjoesinar.com/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-Available-0ea5e9?style=for-the-badge)](#)
@@ -180,6 +180,19 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaress&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaress&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asyaress&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
 
 ## 📂 Proyek Pilihan
 
@@ -197,3 +210,12 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
 
 ---
 
+<div align="center">
+
+**💬 Mari Berkolaborasi!**
+
+Saya terbuka untuk peluang freelance, kolaborasi proyek, atau sekadar ngobrol tentang tech! 
+
+⭐️ Jangan lupa star repo yang menarik!
+
+</div>
