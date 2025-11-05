@@ -6,12 +6,11 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 
 <div align="center">
 
-# NAMA_LENGKAP
-**ROLE_UTAMA • Full-Stack • Cloud/DevOps • Data/ML Enthusiast**
+# ATHASYAHRI SYAWAL FAHREZY
+**Gue Bisa • Full-Stack • Cloud/DevOps • Data/ML Enthusiast**
 
-[![Email](https://img.shields.io/badge/Email-email%40domain.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:email@domain.com)
-[![Website](https://img.shields.io/badge/Website-Visit-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://websitekamu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/username)
+[![Email](https://img.shields.io/badge/Email-email%40domain.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:athafarez2412@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://rekrutmen-toedjoesinar.com/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-Available-0ea5e9?style=for-the-badge)](#)
 
