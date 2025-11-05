@@ -65,7 +65,7 @@ Catatan:
 ---
 
 ## 🌌 Full Tech Universe (Badge Besar)
-<details>
+
   <summary><b>🧑‍💻 Bahasa Pemrograman</b></summary>
   <br>
   
