@@ -9,8 +9,8 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 # ATHASYAHRI SYAWAL FAHREZY
 **Gue Bisa • Full-Stack • Data/ML Enthusiast**
 
-[![Email](https://img.shields.io/badge/Email-athafarez2412%gmail.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:athafarez2412@gmail.com)
-[![Website](https://img.shields.io/badge/Salah-Satu-Web-Saya-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://rekrutmen-toedjoesinar.com/)
+[![Email](https://img.shields.io/badge/Email-email%40domain.com-1f6feb?style=for-the-badge&logo=gmail)](mailto:athafarez2412@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://rekrutmen-toedjoesinar.com/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-Available-0ea5e9?style=for-the-badge)](#)
 
