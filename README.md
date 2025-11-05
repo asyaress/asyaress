@@ -180,22 +180,23 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
 
 ---
 
-## 📊 GitHub Stats
-
-## ✨ Alternatif Keren
+## 📊 GitHub Highlights
 
 <div align="center">
 
-<!-- 1) Animated typing banner -->
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+asyaress;Full-stack+builder+%7C+DevOps+%7C+Data+Enthusiast;I+build+things+that+scale)](https://github.com/asyaress)
+<!-- Animated typing banner (drop-in) -->
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+asyaress;Full-stack+builder+%7C+DevOps+%7C+Data+Enthusiast;I+build+things+that+scale)](https://github.com/asyaress)
 
-<!-- 2) GitHub Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=asyaress&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+<!-- Main stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaress&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
-<!-- 3) Activity Graph -->
+<!-- Top languages with percentages (progress bars ON) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaress&layout=compact&hide_progress=false&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+<!-- Activity graph (endpoint baru vercel) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asyaress&theme=github-compact&hide_border=true&area=true&radius=8)
 
-<!-- 4) Profile Summary Cards (grid) -->
+<!-- Profile summary cards (grid) -->
 <p>
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asyaress&theme=github_dark" />
 </p>
@@ -208,8 +209,11 @@ Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda
   <img width="395" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asyaress&theme=github_dark&utcOffset=7" />
 </p>
 
-<!-- 5) (pengganti endpoint lama) Streak versi terbaru -->
-![Streak](https://streak-stats.demolab.com?user=asyaress&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<!-- Trophy (ringkas, no frame) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=asyaress&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+
+<!-- Profile views (opsional) -->
+<img src="https://komarev.com/ghpvc/?username=asyaress&style=flat-square&label=Profile%20views" alt="views" />
 
 </div>
 
