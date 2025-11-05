@@ -19,7 +19,7 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 ---
 
 ## 🚀 Sekilas Tentang Saya
-Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda jurusan PPLG (Pengembangan Perangkat Lunak dan Gim), di mana saya pertama kali merasakan serunya membangun aplikasi dari nol. Kini sebagai mahasiswa S1 Informatika Universitas Mulawarman angkatan 2025, saya semakin fokus mengasah skill di web programming, data analysis, dan Artificial Intelligence. Saya percaya bahwa kode yang baik bukan hanya soal "jalan atau tidak", tapi tentang clean code, scalability, dan menciptakan solusi yang punya dampak nyata terutama dengan memanfaatkan kekuatan AI untuk memecahkan masalah kompleks. Setiap project adalah kesempatan untuk belajar, berkolaborasi, dan tumbuh — karena bagi saya, teknologi harusnya membuat hidup lebih mudah dan bermakna. 🚀✨
+Perjalanan saya di dunia teknologi dimulai sejak SMK lulus dari SMKN 7 Samarinda jurusan PPLG (Pengembangan Perangkat Lunak dan Gim), di mana saya pertama kali merasakan serunya membangun aplikasi dari nol. Kini sebagai mahasiswa S1 Informatika Universitas Mulawarman angkatan 2025, saya semakin fokus mengasah skill di web programming, data analysis, dan Artificial Intelligence. Saya percaya bahwa kode yang baik bukan hanya soal "jalan atau tidak", tapi tentang clean code, scalability, dan menciptakan solusi yang punya dampak nyata terutama dengan memanfaatkan kekuatan AI untuk memecahkan masalah kompleks. Setiap project adalah kesempatan untuk belajar, berkolaborasi, dan tumbuh karena bagi saya, teknologi harusnya membuat hidup lebih mudah dan bermakna. 🚀✨
 
 ---
 
